@@ -1,0 +1,2 @@
+rootProject.name='DGBrowser - A disposable browser'
+include ':app'
